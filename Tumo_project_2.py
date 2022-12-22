@@ -3,7 +3,7 @@ from random import randint
 """
 Station Project 2 : Craps
 
-The task
+The task   
 
 Here are the rules of the game:
 
